@@ -1,6 +1,5 @@
 ---
-name: judge-assignment
-version: 1.0.0
+name: judges-assignment
 description: |
   项目分组评委智能分配 — 读取专家信息和项目分组两个 Excel 文件，按照「学科匹配 + 校内外搭配」
   的规则，为每个项目组分配评委，输出带颜色标注的结果 Excel。

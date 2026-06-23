@@ -1,11 +1,6 @@
 ---
 name: kmoon-write
-description: >
-  用 Kmoon 风格写中文技术博客。核心原则：加深自己理解，活人感强，别人愿意看下去。
-  不堆砌国外报告数据，不强行嵌入内部链接，不用 SEO 模板套路。
-  消化参考文章后用自己的理解重新组织，不逐段复述。
-  像跟同事聊天一样讲技术，有个人判断、有态度、有类比。
-  Use when user says "写博客", "写文章", "写一篇", "blog write", "kmoon write".
+description: 用 Kmoon 风格写中文技术博客。核心原则：加深自己理解，活人感强，别人愿意看下去。不堆砌国外报告数据，不强行嵌入内部链接，不用 SEO 模板套路。消化参考文章后用自己的理解重新组织，不逐段复述。像跟同事聊天一样讲技术，有个人判断、有态度、有类比。Use when user says "写博客", "写文章", "写一篇", "blog write", "kmoon write".
 user-invokable: true
 argument-hint: "<topic or @file>"
 ---
